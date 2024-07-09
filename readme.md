@@ -7,7 +7,7 @@
 
 - 🤝 I have recently done **Internship of Emerging Technologies (AI & Cloud) conducted by Edunet Foundation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kartik-das-2003?tab=repositories](https://github.com/kartik-das-2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/kartik-das-2003/](https://github.com/kartik-das-2003/)
 
 - 🎓 My achievement **GATE 2024**
 
