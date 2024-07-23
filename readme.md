@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Medical Data Analysis Using Machine Learning**
 
+- 💡 I’m currently working **NIC,Internship Program**
+
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
 - 🤝 I have recently done **Internship of Emerging Technologies (AI & Cloud) conducted by Edunet Foundation**
