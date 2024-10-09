@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Das</h1>
-<h3 align="center">My Interest In Cyber Security, Data Science & Machine Learning</h3>
+<h3 align="center">My Interest In Full Stack Development,Cyber Security, Data Science & Machine Learning</h3>
 
 - 🔭 I’m currently working on **Medical Data Analysis Using Machine Learning**
 
@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/kartik-das-1b5168304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-das-1b5168304" height="30" width="40" /></a>
 <a href="https://kaggle.com/kartik3das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartik3das" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kartik_das" target="blank"><img align="center" src="https://i.imghippo.com/files/R6jxs1720544610.png" alt="kartik_das" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kartik_das_03" target="blank"><img align="center" src="https://i.imghippo.com/files/R6jxs1720544610.png" alt="kartik_das" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
