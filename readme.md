@@ -132,5 +132,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kartik-das-2003&label=Profile+Views&color=0e75b6&style=flat)
+<p>© 2025 Kartik Das. All rights reserved.</p>
 
 </div>
