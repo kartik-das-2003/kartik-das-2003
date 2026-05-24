@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda,neo4j,linux"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda,postgres,linux"/>
 
 </p>
 
