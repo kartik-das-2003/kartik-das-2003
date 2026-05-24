@@ -1,110 +1,136 @@
-# Kartik Das - Personal Portfolio
+<div align="center">
 
-## About Me
+# Hi 👋 I'm Kartik Das
 
-Hi, I am Kartik, a passionate full stack developer with a love for creating websites. I specialize in front-end development and have good experience in HTML, CSS, JavaScript and more. I am a student of Computer Science and Engineering, passionate in Artificial Intelligence, Machine Learning, Large Language Models and Cyber Security. My development works currently focus on Frontend Developing & Designing, with a current focus on LLMs & GenAI. I possess strong academic knowledge of Mathematics, Physics, Programming, Data Structure, Theory of Computations, Algorithms & Databases.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=M.Tech+CSE+Student+at+IIEST+Shibpur;Full+Stack+Developer;AI+%7C+ML+%7C+LLM+Enthusiast;Generative+AI+Explorer;Cyber+Security+Learner" />
 
-### Education Journey
+</div>
 
-*   **Indian Institute of Engineering Science and Technology, Shibpur** (2025 - Present)
-    *   2 Year Program Master Of Technology (M.Tech) in Computer Science and Engineering
-    *   CGPA: 8.14 (Till 1st Semester)
-*   **Government College Of Engineering & Ceramic Technology** (2021 - 2025)
-    *   4 Year Program Bachelor Of Technology (B.Tech) in Information Technology
-    *   CGPA: 9.66, Special Grant B.Tech with Honours
-*   **Kirtipur Nabin Chandra High School (H.S.)** (2019 - 2021)
-    *   Higher Secondary or 12th Equivalent Degree in Pure Science
-    *   Percentage: 95.20 %
-*   **Kirtipur Nabin Chandra High School (H.S.)** (2013 - 2019)
-    *   Secondary or 10th Equivalent Degree in All Subjects
-    *   Percentage: 91.71 %
+---
 
-### Hobbies
+## 🚀 About Me
 
-I enjoy playing chess, reading story books, drawing, watching animations & listening to songs, especially Bengali folk songs (Baul songs). Photography is also a favorite hobby.
+   🎓 M.Tech in Computer Science & Engineering at **IIEST Shibpur**  
+   🎓 B.Tech in Information Technology at **GCECT**   — **CGPA: 9.66**  
 
-## Skills
+💻 Full Stack Developer with interest in:
 
-### Known Skills
+   🤖 Artificial Intelligence & Machine Learning  
+   🧠 Large Language Models (LLMs) & Generative AI  
+   🔐 Cyber Security & Ethical Hacking  
+   📊 Data Science & Intelligent Systems  
+   🌐 Web Development & UI Design  
 
-*   HTML5
-*   CSS3
-*   React
-*   PrimeNG
+🔭 Currently exploring **Cultural Aware LLMs, GenAI & Intelligent Systems**
 
-### Known Programming Languages
+---
 
-*   C
-*   Java
-*   Python
-*   SQL
-*   JavaScript
+## 🌐 Connect With Me
 
-### Familiar With Frameworks
+<p align="center">
 
-*   VS Code
-*   Eclipse
-*   Git
-*   Anaconda, Jupyter, Spyder
-*   Google Colab
-*   Code Blocks
+<a href="https://linkedin.com/in/kartik-das-1b5168304">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Projects
+<a href="https://github.com/kartik-das-2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Code Crafters
+<a href="mailto:daskartik1211@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Code Crafters is a comprehensive website featuring an English dictionary (Dictionary Crafters), a translation tool (Translator Crafters), and a spelling checker (Spell Crafters). It is best experienced on desktop. Technologies used: HTML, CSS, JS & OpenAPI.
+<a href="https://x.com/kartik0799">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-### Medical Data Analysis Using ML
+</p>
 
-This project focuses on the early diagnosis and prevention of diabetes through machine learning. The primary objective is to accurately scrutinize how machine learning models can improve outcomes for diabetic patients or individuals checking for diabetes.
+---
 
-### My Weather App
+## 💻 Tech Stack
 
-A complete web application that provides location-wise weather updates. It offers highly illustrative information, including location details, humidity, pressure, and temperature, all within a single frame. Technologies used: HTML, CSS, JS & OpenAPI.
+### Languages
 
-### Student Portal
+<p>
 
-A full web application featuring registration and login pages. Successfully logged-in users can access a 'Secret Message' on a blog page. Technologies used: HTML, CSS, Express JS & MongoDB.
+<img src="https://skillicons.dev/icons?i=c,java,python,js,mysql"/>
 
-### Rice Grain Image Classification Using CNN
+</p>
 
-This project involves a Convolutional Neural Network (CNN) model to analyze and classify rice grain images from a dataset. The primary objective was to accurately identify different types of rice grains based on their physical characteristics. The CNN architecture was designed and trained using machine learning libraries, resulting in a robust model capable of distinguishing between rice grain varieties.
+### Frontend & Backend
 
-## Certifications
+<p>
 
-### Ethical Hacking and Penetration Testing
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb"/>
 
-Virtual Internship conducted by C-DAC, NOIDA (19th Aug 2024 to 3rd Oct 2024). Survey topic: Malware Analysis & Indicators of Compromises using RegEx.
+</p>
 
-### Cybersecurity Basic Concept - LMS
+### Tools & Platforms
 
-Program conducted by Digital Academic platform of CSCoE@WB, Webel (September to October, 2024). Completed 'Cyber Security Basic Concepts' with a score of 98.68%.
+<p>
 
-### Digital Skill Readiness Program: Java Full Stack
+<img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda"/>
 
-Program conducted by Wipro Talentnext in coordination with Government College of Engineering and Ceramic Technology (May to September, 2024). Completed 'Java Full Stack' with a score of 90%.
+</p>
 
-### Google AI Essentials
+---
 
-Online non-credit course authorized by Google and offered through Coursera. Completed on September 2, 2024, with a grade of 92%.
+## 📌 Featured Projects
 
-### Summer Training and Internship on Data Science
+🔹 Medical Data Analysis Using Machine Learning  
 
-Industrial Training program conducted by Dataspace Academy (8th June 2024 to 27th July 2024). Completed project 'Rice Grain Image Classification Using Convolutional Neural Network' with Grade A.
+🔹 Rice Grain Image Classification Using CNN  
 
-### Emerging Technologies (AI & Cloud)
+🔹 Student Portal (Express.js + MongoDB)  
 
-Completed leveraging SkillsBuild & IBM Cloud Platform in Emerging Technologies (4th June 2024 to 1st July 2024). Program conducted by Edunet Foundation.
+🔹 Weather Application  
 
-### Foundations of Cybersecurity
+🔹 Code Crafters Platform  
 
-Online non-credit course authorized by Google and offered through Coursera. Completed on June 30, 2024, with a grade of 88.38%.
+---
 
-## Contact
+## 🔥 GitHub Streak
 
-*   **LinkedIn:** [https://www.linkedin.com/in/kartik-das-1b5168304/](https://www.linkedin.com/in/kartik-das-1b5168304/)
-*   **GitHub:** [https://github.com/kartik-das-2003/](https://github.com/kartik-das-2003/)
-*   **X (Twitter):** [https://x.com/kartik0799](https://x.com/kartik0799)
-*   **YouTube:** [https://youtube.com](https://youtube.com)
-*   **Email:** [mailto:daskartik1211@gmail.com](mailto:daskartik1211@gmail.com)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kartik-das-2003&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartik-das-2003&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-das-2003&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+💡 *“Code + Research + Innovation = Continuous Learning”*
+
+🎯 Currently focusing on **AI, LLMs, Generative AI & Cultural Aware Systems**
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kartik-das-2003&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
