@@ -51,26 +51,20 @@
 
 ## 💻 Tech Stack
 
-### Languages
-
 <p align="center">
-
+### Languages
 <img src="https://skillicons.dev/icons?i=c,java,python,js,mysql"/>
 
 </p>
 
-### Frontend & Backend
-
 <p align="center">
-
+### Frontend & Backend
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb"/>
 
 </p>
 
-### Tools & Platforms
-
 <p align="center">
-
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda"/>
 
 </p>
