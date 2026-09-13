@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-   🎓 M.Tech in Computer Science & Engineering at **IIEST Shibpur**  
+   🎓 M.Tech in Computer Science & Engineering at **IIEST Shibpur**   — **CGPA: 8.3**  
    🎓 B.Tech in Information Technology at **GCECT**   — **CGPA: 9.66**  
 
 💻 Full Stack Developer with interest in:
