@@ -92,25 +92,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartik-das-2003&theme=radical&no-frame=true" alt="Kartik's GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-das-2003&theme=tokyo-night"/>
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 💡 *“Code + Research + Innovation = Continuous Learning”*
